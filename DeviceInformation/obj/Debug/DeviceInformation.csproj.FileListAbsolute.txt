@@ -1,0 +1,672 @@
+E:\R54\MVC_Projects\DeviceInformation\DeviceInformation\bin\DeviceInformation.dll.config
+E:\R54\MVC_Projects\DeviceInformation\DeviceInformation\bin\DeviceInformation.dll
+E:\R54\MVC_Projects\DeviceInformation\DeviceInformation\bin\DeviceInformation.pdb
+E:\R54\MVC_Projects\DeviceInformation\DeviceInformation\bin\roslyn\csc.exe
+E:\R54\MVC_Projects\DeviceInformation\DeviceInformation\bin\roslyn\csc.exe.config
+E:\R54\MVC_Projects\DeviceInformation\DeviceInformation\bin\roslyn\csc.rsp
+E:\R54\MVC_Projects\DeviceInformation\DeviceInformation\bin\roslyn\csi.exe
+E:\R54\MVC_Projects\DeviceInformation\DeviceInformation\bin\roslyn\csi.exe.config
+E:\R54\MVC_Projects\DeviceInformation\DeviceInformation\bin\roslyn\csi.rsp
+E:\R54\MVC_Projects\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\R54\MVC_Projects\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\R54\MVC_Projects\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\R54\MVC_Projects\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\R54\MVC_Projects\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\R54\MVC_Projects\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\R54\MVC_Projects\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\R54\MVC_Projects\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\R54\MVC_Projects\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\R54\MVC_Projects\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+E:\R54\MVC_Projects\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.Managed.Core.targets
+E:\R54\MVC_Projects\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\R54\MVC_Projects\DeviceInformation\DeviceInformation\bin\roslyn\System.Buffers.dll
+E:\R54\MVC_Projects\DeviceInformation\DeviceInformation\bin\roslyn\System.Collections.Immutable.dll
+E:\R54\MVC_Projects\DeviceInformation\DeviceInformation\bin\roslyn\System.Memory.dll
+E:\R54\MVC_Projects\DeviceInformation\DeviceInformation\bin\roslyn\System.Numerics.Vectors.dll
+E:\R54\MVC_Projects\DeviceInformation\DeviceInformation\bin\roslyn\System.Reflection.Metadata.dll
+E:\R54\MVC_Projects\DeviceInformation\DeviceInformation\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+E:\R54\MVC_Projects\DeviceInformation\DeviceInformation\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\R54\MVC_Projects\DeviceInformation\DeviceInformation\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\R54\MVC_Projects\DeviceInformation\DeviceInformation\bin\roslyn\vbc.exe
+E:\R54\MVC_Projects\DeviceInformation\DeviceInformation\bin\roslyn\vbc.exe.config
+E:\R54\MVC_Projects\DeviceInformation\DeviceInformation\bin\roslyn\vbc.rsp
+E:\R54\MVC_Projects\DeviceInformation\DeviceInformation\bin\roslyn\VBCSCompiler.exe
+E:\R54\MVC_Projects\DeviceInformation\DeviceInformation\bin\roslyn\VBCSCompiler.exe.config
+E:\R54\MVC_Projects\DeviceInformation\DeviceInformation\bin\EntityFramework.dll
+E:\R54\MVC_Projects\DeviceInformation\DeviceInformation\bin\EntityFramework.SqlServer.dll
+E:\R54\MVC_Projects\DeviceInformation\DeviceInformation\bin\Microsoft.AspNet.Identity.Core.dll
+E:\R54\MVC_Projects\DeviceInformation\DeviceInformation\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\R54\MVC_Projects\DeviceInformation\DeviceInformation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\R54\MVC_Projects\DeviceInformation\DeviceInformation\bin\Microsoft.Owin.dll
+E:\R54\MVC_Projects\DeviceInformation\DeviceInformation\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\R54\MVC_Projects\DeviceInformation\DeviceInformation\bin\Microsoft.Owin.Security.Cookies.dll
+E:\R54\MVC_Projects\DeviceInformation\DeviceInformation\bin\Microsoft.Owin.Security.dll
+E:\R54\MVC_Projects\DeviceInformation\DeviceInformation\bin\Microsoft.Web.Infrastructure.dll
+E:\R54\MVC_Projects\DeviceInformation\DeviceInformation\bin\Owin.dll
+E:\R54\MVC_Projects\DeviceInformation\DeviceInformation\bin\System.Buffers.dll
+E:\R54\MVC_Projects\DeviceInformation\DeviceInformation\bin\System.Memory.dll
+E:\R54\MVC_Projects\DeviceInformation\DeviceInformation\bin\System.Numerics.Vectors.dll
+E:\R54\MVC_Projects\DeviceInformation\DeviceInformation\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\R54\MVC_Projects\DeviceInformation\DeviceInformation\bin\System.Text.Encodings.Web.dll
+E:\R54\MVC_Projects\DeviceInformation\DeviceInformation\bin\System.Web.Helpers.dll
+E:\R54\MVC_Projects\DeviceInformation\DeviceInformation\bin\System.Web.Mvc.dll
+E:\R54\MVC_Projects\DeviceInformation\DeviceInformation\bin\System.Web.Razor.dll
+E:\R54\MVC_Projects\DeviceInformation\DeviceInformation\bin\System.Web.Webpages.Deployment.dll
+E:\R54\MVC_Projects\DeviceInformation\DeviceInformation\bin\System.Web.Webpages.dll
+E:\R54\MVC_Projects\DeviceInformation\DeviceInformation\bin\System.Web.Webpages.Razor.dll
+E:\R54\MVC_Projects\DeviceInformation\DeviceInformation\bin\X.PagedList.dll
+E:\R54\MVC_Projects\DeviceInformation\DeviceInformation\bin\X.PagedList.Mvc.dll
+E:\R54\MVC_Projects\DeviceInformation\DeviceInformation\bin\X.PagedList.Web.Common.dll
+E:\R54\MVC_Projects\DeviceInformation\DeviceInformation\bin\EntityFramework.xml
+E:\R54\MVC_Projects\DeviceInformation\DeviceInformation\bin\EntityFramework.SqlServer.xml
+E:\R54\MVC_Projects\DeviceInformation\DeviceInformation\bin\Microsoft.AspNet.Identity.Core.xml
+E:\R54\MVC_Projects\DeviceInformation\DeviceInformation\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\R54\MVC_Projects\DeviceInformation\DeviceInformation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\R54\MVC_Projects\DeviceInformation\DeviceInformation\bin\Microsoft.Owin.xml
+E:\R54\MVC_Projects\DeviceInformation\DeviceInformation\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\R54\MVC_Projects\DeviceInformation\DeviceInformation\bin\Microsoft.Owin.Security.xml
+E:\R54\MVC_Projects\DeviceInformation\DeviceInformation\bin\Microsoft.Owin.Security.Cookies.xml
+E:\R54\MVC_Projects\DeviceInformation\DeviceInformation\bin\System.Buffers.xml
+E:\R54\MVC_Projects\DeviceInformation\DeviceInformation\bin\System.Memory.xml
+E:\R54\MVC_Projects\DeviceInformation\DeviceInformation\bin\System.Numerics.Vectors.xml
+E:\R54\MVC_Projects\DeviceInformation\DeviceInformation\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\R54\MVC_Projects\DeviceInformation\DeviceInformation\bin\System.Text.Encodings.Web.xml
+E:\R54\MVC_Projects\DeviceInformation\DeviceInformation\bin\System.Web.Razor.xml
+E:\R54\MVC_Projects\DeviceInformation\DeviceInformation\bin\System.Web.Webpages.xml
+E:\R54\MVC_Projects\DeviceInformation\DeviceInformation\bin\System.Web.Webpages.Deployment.xml
+E:\R54\MVC_Projects\DeviceInformation\DeviceInformation\bin\System.Web.Webpages.Razor.xml
+E:\R54\MVC_Projects\DeviceInformation\DeviceInformation\bin\System.Web.Helpers.xml
+E:\R54\MVC_Projects\DeviceInformation\DeviceInformation\bin\System.Web.Mvc.xml
+E:\R54\MVC_Projects\DeviceInformation\DeviceInformation\obj\Debug\DeviceInformation.csproj.AssemblyReference.cache
+E:\R54\MVC_Projects\DeviceInformation\DeviceInformation\obj\Debug\DeviceInformation.csproj.CoreCompileInputs.cache
+E:\R54\MVC_Projects\DeviceInformation\DeviceInformation\obj\Debug\DeviceInformation.csproj.CopyComplete
+E:\R54\MVC_Projects\DeviceInformation\DeviceInformation\obj\Debug\DeviceInformation.dll
+E:\R54\MVC_Projects\DeviceInformation\DeviceInformation\obj\Debug\DeviceInformation.pdb
+D:\MVC_Projects\DeviceInformation\DeviceInformation\bin\DeviceInformation.dll.config
+D:\MVC_Projects\DeviceInformation\DeviceInformation\bin\DeviceInformation.dll
+D:\MVC_Projects\DeviceInformation\DeviceInformation\bin\DeviceInformation.pdb
+D:\MVC_Projects\DeviceInformation\DeviceInformation\bin\roslyn\csc.exe
+D:\MVC_Projects\DeviceInformation\DeviceInformation\bin\roslyn\csc.exe.config
+D:\MVC_Projects\DeviceInformation\DeviceInformation\bin\roslyn\csc.rsp
+D:\MVC_Projects\DeviceInformation\DeviceInformation\bin\roslyn\csi.exe
+D:\MVC_Projects\DeviceInformation\DeviceInformation\bin\roslyn\csi.exe.config
+D:\MVC_Projects\DeviceInformation\DeviceInformation\bin\roslyn\csi.rsp
+D:\MVC_Projects\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\MVC_Projects\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\MVC_Projects\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\MVC_Projects\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\MVC_Projects\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\MVC_Projects\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\MVC_Projects\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\MVC_Projects\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\MVC_Projects\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\MVC_Projects\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+D:\MVC_Projects\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.Managed.Core.targets
+D:\MVC_Projects\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\MVC_Projects\DeviceInformation\DeviceInformation\bin\roslyn\System.Buffers.dll
+D:\MVC_Projects\DeviceInformation\DeviceInformation\bin\roslyn\System.Collections.Immutable.dll
+D:\MVC_Projects\DeviceInformation\DeviceInformation\bin\roslyn\System.Memory.dll
+D:\MVC_Projects\DeviceInformation\DeviceInformation\bin\roslyn\System.Numerics.Vectors.dll
+D:\MVC_Projects\DeviceInformation\DeviceInformation\bin\roslyn\System.Reflection.Metadata.dll
+D:\MVC_Projects\DeviceInformation\DeviceInformation\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\MVC_Projects\DeviceInformation\DeviceInformation\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\MVC_Projects\DeviceInformation\DeviceInformation\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\MVC_Projects\DeviceInformation\DeviceInformation\bin\roslyn\vbc.exe
+D:\MVC_Projects\DeviceInformation\DeviceInformation\bin\roslyn\vbc.exe.config
+D:\MVC_Projects\DeviceInformation\DeviceInformation\bin\roslyn\vbc.rsp
+D:\MVC_Projects\DeviceInformation\DeviceInformation\bin\roslyn\VBCSCompiler.exe
+D:\MVC_Projects\DeviceInformation\DeviceInformation\bin\roslyn\VBCSCompiler.exe.config
+D:\MVC_Projects\DeviceInformation\DeviceInformation\bin\EntityFramework.dll
+D:\MVC_Projects\DeviceInformation\DeviceInformation\bin\EntityFramework.SqlServer.dll
+D:\MVC_Projects\DeviceInformation\DeviceInformation\bin\Microsoft.AspNet.Identity.Core.dll
+D:\MVC_Projects\DeviceInformation\DeviceInformation\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\MVC_Projects\DeviceInformation\DeviceInformation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\MVC_Projects\DeviceInformation\DeviceInformation\bin\Microsoft.Owin.dll
+D:\MVC_Projects\DeviceInformation\DeviceInformation\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\MVC_Projects\DeviceInformation\DeviceInformation\bin\Microsoft.Owin.Security.Cookies.dll
+D:\MVC_Projects\DeviceInformation\DeviceInformation\bin\Microsoft.Owin.Security.dll
+D:\MVC_Projects\DeviceInformation\DeviceInformation\bin\Microsoft.Web.Infrastructure.dll
+D:\MVC_Projects\DeviceInformation\DeviceInformation\bin\Owin.dll
+D:\MVC_Projects\DeviceInformation\DeviceInformation\bin\System.Buffers.dll
+D:\MVC_Projects\DeviceInformation\DeviceInformation\bin\System.Memory.dll
+D:\MVC_Projects\DeviceInformation\DeviceInformation\bin\System.Numerics.Vectors.dll
+D:\MVC_Projects\DeviceInformation\DeviceInformation\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\MVC_Projects\DeviceInformation\DeviceInformation\bin\System.Text.Encodings.Web.dll
+D:\MVC_Projects\DeviceInformation\DeviceInformation\bin\System.Web.Helpers.dll
+D:\MVC_Projects\DeviceInformation\DeviceInformation\bin\System.Web.Mvc.dll
+D:\MVC_Projects\DeviceInformation\DeviceInformation\bin\System.Web.Razor.dll
+D:\MVC_Projects\DeviceInformation\DeviceInformation\bin\System.Web.Webpages.Deployment.dll
+D:\MVC_Projects\DeviceInformation\DeviceInformation\bin\System.Web.Webpages.dll
+D:\MVC_Projects\DeviceInformation\DeviceInformation\bin\System.Web.Webpages.Razor.dll
+D:\MVC_Projects\DeviceInformation\DeviceInformation\bin\X.PagedList.dll
+D:\MVC_Projects\DeviceInformation\DeviceInformation\bin\X.PagedList.Mvc.dll
+D:\MVC_Projects\DeviceInformation\DeviceInformation\bin\X.PagedList.Web.Common.dll
+D:\MVC_Projects\DeviceInformation\DeviceInformation\bin\EntityFramework.xml
+D:\MVC_Projects\DeviceInformation\DeviceInformation\bin\EntityFramework.SqlServer.xml
+D:\MVC_Projects\DeviceInformation\DeviceInformation\bin\Microsoft.AspNet.Identity.Core.xml
+D:\MVC_Projects\DeviceInformation\DeviceInformation\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\MVC_Projects\DeviceInformation\DeviceInformation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\MVC_Projects\DeviceInformation\DeviceInformation\bin\Microsoft.Owin.xml
+D:\MVC_Projects\DeviceInformation\DeviceInformation\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\MVC_Projects\DeviceInformation\DeviceInformation\bin\Microsoft.Owin.Security.xml
+D:\MVC_Projects\DeviceInformation\DeviceInformation\bin\Microsoft.Owin.Security.Cookies.xml
+D:\MVC_Projects\DeviceInformation\DeviceInformation\bin\System.Buffers.xml
+D:\MVC_Projects\DeviceInformation\DeviceInformation\bin\System.Memory.xml
+D:\MVC_Projects\DeviceInformation\DeviceInformation\bin\System.Numerics.Vectors.xml
+D:\MVC_Projects\DeviceInformation\DeviceInformation\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\MVC_Projects\DeviceInformation\DeviceInformation\bin\System.Text.Encodings.Web.xml
+D:\MVC_Projects\DeviceInformation\DeviceInformation\bin\System.Web.Razor.xml
+D:\MVC_Projects\DeviceInformation\DeviceInformation\bin\System.Web.Webpages.xml
+D:\MVC_Projects\DeviceInformation\DeviceInformation\bin\System.Web.Webpages.Deployment.xml
+D:\MVC_Projects\DeviceInformation\DeviceInformation\bin\System.Web.Webpages.Razor.xml
+D:\MVC_Projects\DeviceInformation\DeviceInformation\bin\System.Web.Helpers.xml
+D:\MVC_Projects\DeviceInformation\DeviceInformation\bin\System.Web.Mvc.xml
+D:\MVC_Projects\DeviceInformation\DeviceInformation\obj\Debug\DeviceInformation.csproj.AssemblyReference.cache
+D:\MVC_Projects\DeviceInformation\DeviceInformation\obj\Debug\DeviceInformation.csproj.CoreCompileInputs.cache
+D:\MVC_Projects\DeviceInformation\DeviceInformation\obj\Debug\DeviceInformation.csproj.CopyComplete
+D:\MVC_Projects\DeviceInformation\DeviceInformation\obj\Debug\DeviceInformation.dll
+D:\MVC_Projects\DeviceInformation\DeviceInformation\obj\Debug\DeviceInformation.pdb
+E:\R54\MVC_Projects\Complete\DeviceInformation\DeviceInformation\bin\DeviceInformation.dll.config
+E:\R54\MVC_Projects\Complete\DeviceInformation\DeviceInformation\bin\DeviceInformation.dll
+E:\R54\MVC_Projects\Complete\DeviceInformation\DeviceInformation\bin\DeviceInformation.pdb
+E:\R54\MVC_Projects\Complete\DeviceInformation\DeviceInformation\bin\roslyn\csc.exe
+E:\R54\MVC_Projects\Complete\DeviceInformation\DeviceInformation\bin\roslyn\csc.exe.config
+E:\R54\MVC_Projects\Complete\DeviceInformation\DeviceInformation\bin\roslyn\csc.rsp
+E:\R54\MVC_Projects\Complete\DeviceInformation\DeviceInformation\bin\roslyn\csi.exe
+E:\R54\MVC_Projects\Complete\DeviceInformation\DeviceInformation\bin\roslyn\csi.exe.config
+E:\R54\MVC_Projects\Complete\DeviceInformation\DeviceInformation\bin\roslyn\csi.rsp
+E:\R54\MVC_Projects\Complete\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\R54\MVC_Projects\Complete\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\R54\MVC_Projects\Complete\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\R54\MVC_Projects\Complete\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\R54\MVC_Projects\Complete\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\R54\MVC_Projects\Complete\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\R54\MVC_Projects\Complete\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\R54\MVC_Projects\Complete\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\R54\MVC_Projects\Complete\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\R54\MVC_Projects\Complete\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+E:\R54\MVC_Projects\Complete\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.Managed.Core.targets
+E:\R54\MVC_Projects\Complete\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\R54\MVC_Projects\Complete\DeviceInformation\DeviceInformation\bin\roslyn\System.Buffers.dll
+E:\R54\MVC_Projects\Complete\DeviceInformation\DeviceInformation\bin\roslyn\System.Collections.Immutable.dll
+E:\R54\MVC_Projects\Complete\DeviceInformation\DeviceInformation\bin\roslyn\System.Memory.dll
+E:\R54\MVC_Projects\Complete\DeviceInformation\DeviceInformation\bin\roslyn\System.Numerics.Vectors.dll
+E:\R54\MVC_Projects\Complete\DeviceInformation\DeviceInformation\bin\roslyn\System.Reflection.Metadata.dll
+E:\R54\MVC_Projects\Complete\DeviceInformation\DeviceInformation\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+E:\R54\MVC_Projects\Complete\DeviceInformation\DeviceInformation\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\R54\MVC_Projects\Complete\DeviceInformation\DeviceInformation\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\R54\MVC_Projects\Complete\DeviceInformation\DeviceInformation\bin\roslyn\vbc.exe
+E:\R54\MVC_Projects\Complete\DeviceInformation\DeviceInformation\bin\roslyn\vbc.exe.config
+E:\R54\MVC_Projects\Complete\DeviceInformation\DeviceInformation\bin\roslyn\vbc.rsp
+E:\R54\MVC_Projects\Complete\DeviceInformation\DeviceInformation\bin\roslyn\VBCSCompiler.exe
+E:\R54\MVC_Projects\Complete\DeviceInformation\DeviceInformation\bin\roslyn\VBCSCompiler.exe.config
+E:\R54\MVC_Projects\Complete\DeviceInformation\DeviceInformation\bin\EntityFramework.dll
+E:\R54\MVC_Projects\Complete\DeviceInformation\DeviceInformation\bin\EntityFramework.SqlServer.dll
+E:\R54\MVC_Projects\Complete\DeviceInformation\DeviceInformation\bin\Microsoft.AspNet.Identity.Core.dll
+E:\R54\MVC_Projects\Complete\DeviceInformation\DeviceInformation\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\R54\MVC_Projects\Complete\DeviceInformation\DeviceInformation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\R54\MVC_Projects\Complete\DeviceInformation\DeviceInformation\bin\Microsoft.Owin.dll
+E:\R54\MVC_Projects\Complete\DeviceInformation\DeviceInformation\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\R54\MVC_Projects\Complete\DeviceInformation\DeviceInformation\bin\Microsoft.Owin.Security.Cookies.dll
+E:\R54\MVC_Projects\Complete\DeviceInformation\DeviceInformation\bin\Microsoft.Owin.Security.dll
+E:\R54\MVC_Projects\Complete\DeviceInformation\DeviceInformation\bin\Microsoft.Web.Infrastructure.dll
+E:\R54\MVC_Projects\Complete\DeviceInformation\DeviceInformation\bin\Owin.dll
+E:\R54\MVC_Projects\Complete\DeviceInformation\DeviceInformation\bin\System.Buffers.dll
+E:\R54\MVC_Projects\Complete\DeviceInformation\DeviceInformation\bin\System.Memory.dll
+E:\R54\MVC_Projects\Complete\DeviceInformation\DeviceInformation\bin\System.Numerics.Vectors.dll
+E:\R54\MVC_Projects\Complete\DeviceInformation\DeviceInformation\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\R54\MVC_Projects\Complete\DeviceInformation\DeviceInformation\bin\System.Text.Encodings.Web.dll
+E:\R54\MVC_Projects\Complete\DeviceInformation\DeviceInformation\bin\System.Web.Helpers.dll
+E:\R54\MVC_Projects\Complete\DeviceInformation\DeviceInformation\bin\System.Web.Mvc.dll
+E:\R54\MVC_Projects\Complete\DeviceInformation\DeviceInformation\bin\System.Web.Razor.dll
+E:\R54\MVC_Projects\Complete\DeviceInformation\DeviceInformation\bin\System.Web.Webpages.Deployment.dll
+E:\R54\MVC_Projects\Complete\DeviceInformation\DeviceInformation\bin\System.Web.Webpages.dll
+E:\R54\MVC_Projects\Complete\DeviceInformation\DeviceInformation\bin\System.Web.Webpages.Razor.dll
+E:\R54\MVC_Projects\Complete\DeviceInformation\DeviceInformation\bin\X.PagedList.dll
+E:\R54\MVC_Projects\Complete\DeviceInformation\DeviceInformation\bin\X.PagedList.Mvc.dll
+E:\R54\MVC_Projects\Complete\DeviceInformation\DeviceInformation\bin\X.PagedList.Web.Common.dll
+E:\R54\MVC_Projects\Complete\DeviceInformation\DeviceInformation\bin\EntityFramework.xml
+E:\R54\MVC_Projects\Complete\DeviceInformation\DeviceInformation\bin\EntityFramework.SqlServer.xml
+E:\R54\MVC_Projects\Complete\DeviceInformation\DeviceInformation\bin\Microsoft.AspNet.Identity.Core.xml
+E:\R54\MVC_Projects\Complete\DeviceInformation\DeviceInformation\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\R54\MVC_Projects\Complete\DeviceInformation\DeviceInformation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\R54\MVC_Projects\Complete\DeviceInformation\DeviceInformation\bin\Microsoft.Owin.xml
+E:\R54\MVC_Projects\Complete\DeviceInformation\DeviceInformation\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\R54\MVC_Projects\Complete\DeviceInformation\DeviceInformation\bin\Microsoft.Owin.Security.xml
+E:\R54\MVC_Projects\Complete\DeviceInformation\DeviceInformation\bin\Microsoft.Owin.Security.Cookies.xml
+E:\R54\MVC_Projects\Complete\DeviceInformation\DeviceInformation\bin\System.Buffers.xml
+E:\R54\MVC_Projects\Complete\DeviceInformation\DeviceInformation\bin\System.Memory.xml
+E:\R54\MVC_Projects\Complete\DeviceInformation\DeviceInformation\bin\System.Numerics.Vectors.xml
+E:\R54\MVC_Projects\Complete\DeviceInformation\DeviceInformation\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\R54\MVC_Projects\Complete\DeviceInformation\DeviceInformation\bin\System.Text.Encodings.Web.xml
+E:\R54\MVC_Projects\Complete\DeviceInformation\DeviceInformation\bin\System.Web.Razor.xml
+E:\R54\MVC_Projects\Complete\DeviceInformation\DeviceInformation\bin\System.Web.Webpages.xml
+E:\R54\MVC_Projects\Complete\DeviceInformation\DeviceInformation\bin\System.Web.Webpages.Deployment.xml
+E:\R54\MVC_Projects\Complete\DeviceInformation\DeviceInformation\bin\System.Web.Webpages.Razor.xml
+E:\R54\MVC_Projects\Complete\DeviceInformation\DeviceInformation\bin\System.Web.Helpers.xml
+E:\R54\MVC_Projects\Complete\DeviceInformation\DeviceInformation\bin\System.Web.Mvc.xml
+E:\R54\MVC_Projects\Complete\DeviceInformation\DeviceInformation\obj\Debug\DeviceInformation.csproj.AssemblyReference.cache
+E:\R54\MVC_Projects\Complete\DeviceInformation\DeviceInformation\obj\Debug\DeviceInformation.csproj.CoreCompileInputs.cache
+E:\R54\MVC_Projects\Complete\DeviceInformation\DeviceInformation\obj\Debug\DeviceInformation.csproj.CopyComplete
+E:\R54\MVC_Projects\Complete\DeviceInformation\DeviceInformation\obj\Debug\DeviceInformation.dll
+E:\R54\MVC_Projects\Complete\DeviceInformation\DeviceInformation\obj\Debug\DeviceInformation.pdb
+M:\GitHub\DeviceInformation\DeviceInformation\bin\DeviceInformation.dll.config
+M:\GitHub\DeviceInformation\DeviceInformation\bin\DeviceInformation.dll
+M:\GitHub\DeviceInformation\DeviceInformation\bin\DeviceInformation.pdb
+M:\GitHub\DeviceInformation\DeviceInformation\bin\roslyn\csc.exe
+M:\GitHub\DeviceInformation\DeviceInformation\bin\roslyn\csc.exe.config
+M:\GitHub\DeviceInformation\DeviceInformation\bin\roslyn\csc.rsp
+M:\GitHub\DeviceInformation\DeviceInformation\bin\roslyn\csi.exe
+M:\GitHub\DeviceInformation\DeviceInformation\bin\roslyn\csi.exe.config
+M:\GitHub\DeviceInformation\DeviceInformation\bin\roslyn\csi.rsp
+M:\GitHub\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+M:\GitHub\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+M:\GitHub\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+M:\GitHub\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.CodeAnalysis.dll
+M:\GitHub\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+M:\GitHub\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+M:\GitHub\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.CSharp.Core.targets
+M:\GitHub\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+M:\GitHub\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+M:\GitHub\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+M:\GitHub\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.Managed.Core.targets
+M:\GitHub\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+M:\GitHub\DeviceInformation\DeviceInformation\bin\roslyn\System.Buffers.dll
+M:\GitHub\DeviceInformation\DeviceInformation\bin\roslyn\System.Collections.Immutable.dll
+M:\GitHub\DeviceInformation\DeviceInformation\bin\roslyn\System.Memory.dll
+M:\GitHub\DeviceInformation\DeviceInformation\bin\roslyn\System.Numerics.Vectors.dll
+M:\GitHub\DeviceInformation\DeviceInformation\bin\roslyn\System.Reflection.Metadata.dll
+M:\GitHub\DeviceInformation\DeviceInformation\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+M:\GitHub\DeviceInformation\DeviceInformation\bin\roslyn\System.Text.Encoding.CodePages.dll
+M:\GitHub\DeviceInformation\DeviceInformation\bin\roslyn\System.Threading.Tasks.Extensions.dll
+M:\GitHub\DeviceInformation\DeviceInformation\bin\roslyn\vbc.exe
+M:\GitHub\DeviceInformation\DeviceInformation\bin\roslyn\vbc.exe.config
+M:\GitHub\DeviceInformation\DeviceInformation\bin\roslyn\vbc.rsp
+M:\GitHub\DeviceInformation\DeviceInformation\bin\roslyn\VBCSCompiler.exe
+M:\GitHub\DeviceInformation\DeviceInformation\bin\roslyn\VBCSCompiler.exe.config
+M:\GitHub\DeviceInformation\DeviceInformation\bin\EntityFramework.dll
+M:\GitHub\DeviceInformation\DeviceInformation\bin\EntityFramework.SqlServer.dll
+M:\GitHub\DeviceInformation\DeviceInformation\bin\Microsoft.AspNet.Identity.Core.dll
+M:\GitHub\DeviceInformation\DeviceInformation\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+M:\GitHub\DeviceInformation\DeviceInformation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+M:\GitHub\DeviceInformation\DeviceInformation\bin\Microsoft.Owin.dll
+M:\GitHub\DeviceInformation\DeviceInformation\bin\Microsoft.Owin.Host.SystemWeb.dll
+M:\GitHub\DeviceInformation\DeviceInformation\bin\Microsoft.Owin.Security.Cookies.dll
+M:\GitHub\DeviceInformation\DeviceInformation\bin\Microsoft.Owin.Security.dll
+M:\GitHub\DeviceInformation\DeviceInformation\bin\Microsoft.Web.Infrastructure.dll
+M:\GitHub\DeviceInformation\DeviceInformation\bin\Owin.dll
+M:\GitHub\DeviceInformation\DeviceInformation\bin\System.Buffers.dll
+M:\GitHub\DeviceInformation\DeviceInformation\bin\System.Memory.dll
+M:\GitHub\DeviceInformation\DeviceInformation\bin\System.Numerics.Vectors.dll
+M:\GitHub\DeviceInformation\DeviceInformation\bin\System.Runtime.CompilerServices.Unsafe.dll
+M:\GitHub\DeviceInformation\DeviceInformation\bin\System.Text.Encodings.Web.dll
+M:\GitHub\DeviceInformation\DeviceInformation\bin\System.Web.Helpers.dll
+M:\GitHub\DeviceInformation\DeviceInformation\bin\System.Web.Mvc.dll
+M:\GitHub\DeviceInformation\DeviceInformation\bin\System.Web.Razor.dll
+M:\GitHub\DeviceInformation\DeviceInformation\bin\System.Web.Webpages.Deployment.dll
+M:\GitHub\DeviceInformation\DeviceInformation\bin\System.Web.Webpages.dll
+M:\GitHub\DeviceInformation\DeviceInformation\bin\System.Web.Webpages.Razor.dll
+M:\GitHub\DeviceInformation\DeviceInformation\bin\X.PagedList.dll
+M:\GitHub\DeviceInformation\DeviceInformation\bin\X.PagedList.Mvc.dll
+M:\GitHub\DeviceInformation\DeviceInformation\bin\X.PagedList.Web.Common.dll
+M:\GitHub\DeviceInformation\DeviceInformation\bin\EntityFramework.xml
+M:\GitHub\DeviceInformation\DeviceInformation\bin\EntityFramework.SqlServer.xml
+M:\GitHub\DeviceInformation\DeviceInformation\bin\Microsoft.AspNet.Identity.Core.xml
+M:\GitHub\DeviceInformation\DeviceInformation\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+M:\GitHub\DeviceInformation\DeviceInformation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+M:\GitHub\DeviceInformation\DeviceInformation\bin\Microsoft.Owin.xml
+M:\GitHub\DeviceInformation\DeviceInformation\bin\Microsoft.Owin.Host.SystemWeb.xml
+M:\GitHub\DeviceInformation\DeviceInformation\bin\Microsoft.Owin.Security.xml
+M:\GitHub\DeviceInformation\DeviceInformation\bin\Microsoft.Owin.Security.Cookies.xml
+M:\GitHub\DeviceInformation\DeviceInformation\bin\System.Buffers.xml
+M:\GitHub\DeviceInformation\DeviceInformation\bin\System.Memory.xml
+M:\GitHub\DeviceInformation\DeviceInformation\bin\System.Numerics.Vectors.xml
+M:\GitHub\DeviceInformation\DeviceInformation\bin\System.Runtime.CompilerServices.Unsafe.xml
+M:\GitHub\DeviceInformation\DeviceInformation\bin\System.Text.Encodings.Web.xml
+M:\GitHub\DeviceInformation\DeviceInformation\bin\System.Web.Razor.xml
+M:\GitHub\DeviceInformation\DeviceInformation\bin\System.Web.Webpages.xml
+M:\GitHub\DeviceInformation\DeviceInformation\bin\System.Web.Webpages.Deployment.xml
+M:\GitHub\DeviceInformation\DeviceInformation\bin\System.Web.Webpages.Razor.xml
+M:\GitHub\DeviceInformation\DeviceInformation\bin\System.Web.Helpers.xml
+M:\GitHub\DeviceInformation\DeviceInformation\bin\System.Web.Mvc.xml
+M:\GitHub\DeviceInformation\DeviceInformation\obj\Debug\DeviceInformation.csproj.AssemblyReference.cache
+M:\GitHub\DeviceInformation\DeviceInformation\obj\Debug\DeviceInformation.csproj.CoreCompileInputs.cache
+M:\GitHub\DeviceInformation\DeviceInformation\obj\Debug\DeviceInformation.csproj.CopyComplete
+M:\GitHub\DeviceInformation\DeviceInformation\obj\Debug\DeviceInformation.dll
+M:\GitHub\DeviceInformation\DeviceInformation\obj\Debug\DeviceInformation.pdb
+M:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\DeviceInformation.dll.config
+M:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\DeviceInformation.dll
+M:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\DeviceInformation.pdb
+M:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\csc.exe
+M:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\csc.exe.config
+M:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\csc.rsp
+M:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\csi.exe
+M:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\csi.exe.config
+M:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\csi.rsp
+M:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+M:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+M:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+M:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.CodeAnalysis.dll
+M:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+M:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+M:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.CSharp.Core.targets
+M:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+M:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+M:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+M:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.Managed.Core.targets
+M:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+M:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\System.Buffers.dll
+M:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\System.Collections.Immutable.dll
+M:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\System.Memory.dll
+M:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\System.Numerics.Vectors.dll
+M:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\System.Reflection.Metadata.dll
+M:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+M:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\System.Text.Encoding.CodePages.dll
+M:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\System.Threading.Tasks.Extensions.dll
+M:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\vbc.exe
+M:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\vbc.exe.config
+M:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\vbc.rsp
+M:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\VBCSCompiler.exe
+M:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\VBCSCompiler.exe.config
+M:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\EntityFramework.dll
+M:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\EntityFramework.SqlServer.dll
+M:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\Microsoft.AspNet.Identity.Core.dll
+M:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+M:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+M:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\Microsoft.Owin.dll
+M:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\Microsoft.Owin.Host.SystemWeb.dll
+M:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\Microsoft.Owin.Security.Cookies.dll
+M:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\Microsoft.Owin.Security.dll
+M:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\Microsoft.Web.Infrastructure.dll
+M:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\Owin.dll
+M:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\System.Buffers.dll
+M:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\System.Memory.dll
+M:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\System.Numerics.Vectors.dll
+M:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\System.Runtime.CompilerServices.Unsafe.dll
+M:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\System.Text.Encodings.Web.dll
+M:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\System.Web.Helpers.dll
+M:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\System.Web.Mvc.dll
+M:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\System.Web.Razor.dll
+M:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\System.Web.Webpages.Deployment.dll
+M:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\System.Web.Webpages.dll
+M:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\System.Web.Webpages.Razor.dll
+M:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\X.PagedList.dll
+M:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\X.PagedList.Mvc.dll
+M:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\X.PagedList.Web.Common.dll
+M:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\EntityFramework.xml
+M:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\EntityFramework.SqlServer.xml
+M:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\Microsoft.AspNet.Identity.Core.xml
+M:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+M:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+M:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\Microsoft.Owin.xml
+M:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\Microsoft.Owin.Host.SystemWeb.xml
+M:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\Microsoft.Owin.Security.xml
+M:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\Microsoft.Owin.Security.Cookies.xml
+M:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\System.Buffers.xml
+M:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\System.Memory.xml
+M:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\System.Numerics.Vectors.xml
+M:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\System.Runtime.CompilerServices.Unsafe.xml
+M:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\System.Text.Encodings.Web.xml
+M:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\System.Web.Razor.xml
+M:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\System.Web.Webpages.xml
+M:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\System.Web.Webpages.Deployment.xml
+M:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\System.Web.Webpages.Razor.xml
+M:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\System.Web.Helpers.xml
+M:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\System.Web.Mvc.xml
+M:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\obj\Debug\DeviceInformation.csproj.AssemblyReference.cache
+M:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\obj\Debug\DeviceInformation.csproj.CoreCompileInputs.cache
+M:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\obj\Debug\DeviceInformation.csproj.CopyComplete
+M:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\obj\Debug\DeviceInformation.dll
+M:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\obj\Debug\DeviceInformation.pdb
+H:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\DeviceInformation.dll.config
+H:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\DeviceInformation.dll
+H:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\DeviceInformation.pdb
+H:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\csc.exe
+H:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\csc.exe.config
+H:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\csc.rsp
+H:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\csi.exe
+H:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\csi.exe.config
+H:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\csi.rsp
+H:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+H:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.Managed.Core.targets
+H:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\System.Buffers.dll
+H:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\System.Collections.Immutable.dll
+H:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\System.Memory.dll
+H:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\System.Numerics.Vectors.dll
+H:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\System.Reflection.Metadata.dll
+H:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+H:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\System.Threading.Tasks.Extensions.dll
+H:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\vbc.exe
+H:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\vbc.exe.config
+H:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\vbc.rsp
+H:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\VBCSCompiler.exe
+H:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\VBCSCompiler.exe.config
+H:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\EntityFramework.dll
+H:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\EntityFramework.SqlServer.dll
+H:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\Microsoft.AspNet.Identity.Core.dll
+H:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\Microsoft.Owin.dll
+H:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\Microsoft.Owin.Security.Cookies.dll
+H:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\Microsoft.Owin.Security.dll
+H:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\Microsoft.Web.Infrastructure.dll
+H:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\Owin.dll
+H:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\System.Buffers.dll
+H:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\System.Memory.dll
+H:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\System.Numerics.Vectors.dll
+H:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\System.Runtime.CompilerServices.Unsafe.dll
+H:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\System.Text.Encodings.Web.dll
+H:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\System.Web.Helpers.dll
+H:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\System.Web.Mvc.dll
+H:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\System.Web.Razor.dll
+H:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\System.Web.Webpages.Deployment.dll
+H:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\System.Web.Webpages.dll
+H:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\System.Web.Webpages.Razor.dll
+H:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\X.PagedList.dll
+H:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\X.PagedList.Mvc.dll
+H:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\X.PagedList.Web.Common.dll
+H:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\EntityFramework.xml
+H:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\EntityFramework.SqlServer.xml
+H:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\Microsoft.AspNet.Identity.Core.xml
+H:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\Microsoft.Owin.xml
+H:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\Microsoft.Owin.Security.xml
+H:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\Microsoft.Owin.Security.Cookies.xml
+H:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\System.Buffers.xml
+H:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\System.Memory.xml
+H:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\System.Numerics.Vectors.xml
+H:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\System.Runtime.CompilerServices.Unsafe.xml
+H:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\System.Text.Encodings.Web.xml
+H:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\System.Web.Razor.xml
+H:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\System.Web.Webpages.xml
+H:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\System.Web.Webpages.Deployment.xml
+H:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\System.Web.Webpages.Razor.xml
+H:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\System.Web.Helpers.xml
+H:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\System.Web.Mvc.xml
+H:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\obj\Debug\DeviceInformation.csproj.AssemblyReference.cache
+H:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\obj\Debug\DeviceInformation.csproj.CoreCompileInputs.cache
+H:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\obj\Debug\DeviceInformation.csproj.CopyComplete
+H:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\obj\Debug\DeviceInformation.dll
+H:\7th Mid Monthly Project\DeviceInformation\DeviceInformation\obj\Debug\DeviceInformation.pdb
+D:\Module 6\Final Project\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\DeviceInformation.dll.config
+D:\Module 6\Final Project\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\DeviceInformation.dll
+D:\Module 6\Final Project\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\DeviceInformation.pdb
+D:\Module 6\Final Project\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\csc.exe
+D:\Module 6\Final Project\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\csc.exe.config
+D:\Module 6\Final Project\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\csc.rsp
+D:\Module 6\Final Project\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\csi.exe
+D:\Module 6\Final Project\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\csi.exe.config
+D:\Module 6\Final Project\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\csi.rsp
+D:\Module 6\Final Project\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Module 6\Final Project\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Module 6\Final Project\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Module 6\Final Project\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Module 6\Final Project\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Module 6\Final Project\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Module 6\Final Project\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Module 6\Final Project\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Module 6\Final Project\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Module 6\Final Project\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+D:\Module 6\Final Project\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Module 6\Final Project\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Module 6\Final Project\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\System.Buffers.dll
+D:\Module 6\Final Project\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\System.Collections.Immutable.dll
+D:\Module 6\Final Project\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\System.Memory.dll
+D:\Module 6\Final Project\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\System.Numerics.Vectors.dll
+D:\Module 6\Final Project\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\System.Reflection.Metadata.dll
+D:\Module 6\Final Project\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\Module 6\Final Project\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Module 6\Final Project\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Module 6\Final Project\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\vbc.exe
+D:\Module 6\Final Project\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\vbc.exe.config
+D:\Module 6\Final Project\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\vbc.rsp
+D:\Module 6\Final Project\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\VBCSCompiler.exe
+D:\Module 6\Final Project\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\roslyn\VBCSCompiler.exe.config
+D:\Module 6\Final Project\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\EntityFramework.dll
+D:\Module 6\Final Project\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\EntityFramework.SqlServer.dll
+D:\Module 6\Final Project\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Module 6\Final Project\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Module 6\Final Project\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Module 6\Final Project\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\Microsoft.Owin.dll
+D:\Module 6\Final Project\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Module 6\Final Project\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Module 6\Final Project\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\Microsoft.Owin.Security.dll
+D:\Module 6\Final Project\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\Microsoft.Web.Infrastructure.dll
+D:\Module 6\Final Project\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\Owin.dll
+D:\Module 6\Final Project\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\System.Buffers.dll
+D:\Module 6\Final Project\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\System.Memory.dll
+D:\Module 6\Final Project\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\System.Numerics.Vectors.dll
+D:\Module 6\Final Project\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Module 6\Final Project\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\System.Text.Encodings.Web.dll
+D:\Module 6\Final Project\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\System.Web.Helpers.dll
+D:\Module 6\Final Project\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\System.Web.Mvc.dll
+D:\Module 6\Final Project\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\System.Web.Razor.dll
+D:\Module 6\Final Project\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\System.Web.Webpages.Deployment.dll
+D:\Module 6\Final Project\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\System.Web.Webpages.dll
+D:\Module 6\Final Project\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\System.Web.Webpages.Razor.dll
+D:\Module 6\Final Project\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\X.PagedList.dll
+D:\Module 6\Final Project\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\X.PagedList.Mvc.dll
+D:\Module 6\Final Project\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\X.PagedList.Web.Common.dll
+D:\Module 6\Final Project\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\EntityFramework.xml
+D:\Module 6\Final Project\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\EntityFramework.SqlServer.xml
+D:\Module 6\Final Project\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Module 6\Final Project\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Module 6\Final Project\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Module 6\Final Project\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\Microsoft.Owin.xml
+D:\Module 6\Final Project\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Module 6\Final Project\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\Microsoft.Owin.Security.xml
+D:\Module 6\Final Project\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Module 6\Final Project\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\System.Buffers.xml
+D:\Module 6\Final Project\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\System.Memory.xml
+D:\Module 6\Final Project\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\System.Numerics.Vectors.xml
+D:\Module 6\Final Project\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Module 6\Final Project\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\System.Text.Encodings.Web.xml
+D:\Module 6\Final Project\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\System.Web.Razor.xml
+D:\Module 6\Final Project\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\System.Web.Webpages.xml
+D:\Module 6\Final Project\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\System.Web.Webpages.Deployment.xml
+D:\Module 6\Final Project\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\System.Web.Webpages.Razor.xml
+D:\Module 6\Final Project\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\System.Web.Helpers.xml
+D:\Module 6\Final Project\7th Mid Monthly Project\DeviceInformation\DeviceInformation\bin\System.Web.Mvc.xml
+D:\Module 6\Final Project\7th Mid Monthly Project\DeviceInformation\DeviceInformation\obj\Debug\DeviceInformation.csproj.AssemblyReference.cache
+D:\Module 6\Final Project\7th Mid Monthly Project\DeviceInformation\DeviceInformation\obj\Debug\DeviceInformation.csproj.CoreCompileInputs.cache
+D:\Module 6\Final Project\7th Mid Monthly Project\DeviceInformation\DeviceInformation\obj\Debug\DeviceInformation.csproj.CopyComplete
+D:\Module 6\Final Project\7th Mid Monthly Project\DeviceInformation\DeviceInformation\obj\Debug\DeviceInformation.dll
+D:\Module 6\Final Project\7th Mid Monthly Project\DeviceInformation\DeviceInformation\obj\Debug\DeviceInformation.pdb
+H:\Arman Hossain\All Module\Module 6\Final Project\Mahiuddin vai project\DeviceInformation\DeviceInformation\bin\DeviceInformation.dll.config
+H:\Arman Hossain\All Module\Module 6\Final Project\Mahiuddin vai project\DeviceInformation\DeviceInformation\bin\DeviceInformation.dll
+H:\Arman Hossain\All Module\Module 6\Final Project\Mahiuddin vai project\DeviceInformation\DeviceInformation\bin\DeviceInformation.pdb
+H:\Arman Hossain\All Module\Module 6\Final Project\Mahiuddin vai project\DeviceInformation\DeviceInformation\bin\roslyn\csc.exe
+H:\Arman Hossain\All Module\Module 6\Final Project\Mahiuddin vai project\DeviceInformation\DeviceInformation\bin\roslyn\csc.exe.config
+H:\Arman Hossain\All Module\Module 6\Final Project\Mahiuddin vai project\DeviceInformation\DeviceInformation\bin\roslyn\csc.rsp
+H:\Arman Hossain\All Module\Module 6\Final Project\Mahiuddin vai project\DeviceInformation\DeviceInformation\bin\roslyn\csi.exe
+H:\Arman Hossain\All Module\Module 6\Final Project\Mahiuddin vai project\DeviceInformation\DeviceInformation\bin\roslyn\csi.exe.config
+H:\Arman Hossain\All Module\Module 6\Final Project\Mahiuddin vai project\DeviceInformation\DeviceInformation\bin\roslyn\csi.rsp
+H:\Arman Hossain\All Module\Module 6\Final Project\Mahiuddin vai project\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\Arman Hossain\All Module\Module 6\Final Project\Mahiuddin vai project\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\Arman Hossain\All Module\Module 6\Final Project\Mahiuddin vai project\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\Arman Hossain\All Module\Module 6\Final Project\Mahiuddin vai project\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\Arman Hossain\All Module\Module 6\Final Project\Mahiuddin vai project\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\Arman Hossain\All Module\Module 6\Final Project\Mahiuddin vai project\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\Arman Hossain\All Module\Module 6\Final Project\Mahiuddin vai project\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\Arman Hossain\All Module\Module 6\Final Project\Mahiuddin vai project\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\Arman Hossain\All Module\Module 6\Final Project\Mahiuddin vai project\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\Arman Hossain\All Module\Module 6\Final Project\Mahiuddin vai project\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+H:\Arman Hossain\All Module\Module 6\Final Project\Mahiuddin vai project\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.Managed.Core.targets
+H:\Arman Hossain\All Module\Module 6\Final Project\Mahiuddin vai project\DeviceInformation\DeviceInformation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\Arman Hossain\All Module\Module 6\Final Project\Mahiuddin vai project\DeviceInformation\DeviceInformation\bin\roslyn\System.Buffers.dll
+H:\Arman Hossain\All Module\Module 6\Final Project\Mahiuddin vai project\DeviceInformation\DeviceInformation\bin\roslyn\System.Collections.Immutable.dll
+H:\Arman Hossain\All Module\Module 6\Final Project\Mahiuddin vai project\DeviceInformation\DeviceInformation\bin\roslyn\System.Memory.dll
+H:\Arman Hossain\All Module\Module 6\Final Project\Mahiuddin vai project\DeviceInformation\DeviceInformation\bin\roslyn\System.Numerics.Vectors.dll
+H:\Arman Hossain\All Module\Module 6\Final Project\Mahiuddin vai project\DeviceInformation\DeviceInformation\bin\roslyn\System.Reflection.Metadata.dll
+H:\Arman Hossain\All Module\Module 6\Final Project\Mahiuddin vai project\DeviceInformation\DeviceInformation\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+H:\Arman Hossain\All Module\Module 6\Final Project\Mahiuddin vai project\DeviceInformation\DeviceInformation\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\Arman Hossain\All Module\Module 6\Final Project\Mahiuddin vai project\DeviceInformation\DeviceInformation\bin\roslyn\System.Threading.Tasks.Extensions.dll
+H:\Arman Hossain\All Module\Module 6\Final Project\Mahiuddin vai project\DeviceInformation\DeviceInformation\bin\roslyn\vbc.exe
+H:\Arman Hossain\All Module\Module 6\Final Project\Mahiuddin vai project\DeviceInformation\DeviceInformation\bin\roslyn\vbc.exe.config
+H:\Arman Hossain\All Module\Module 6\Final Project\Mahiuddin vai project\DeviceInformation\DeviceInformation\bin\roslyn\vbc.rsp
+H:\Arman Hossain\All Module\Module 6\Final Project\Mahiuddin vai project\DeviceInformation\DeviceInformation\bin\roslyn\VBCSCompiler.exe
+H:\Arman Hossain\All Module\Module 6\Final Project\Mahiuddin vai project\DeviceInformation\DeviceInformation\bin\roslyn\VBCSCompiler.exe.config
+H:\Arman Hossain\All Module\Module 6\Final Project\Mahiuddin vai project\DeviceInformation\DeviceInformation\bin\EntityFramework.dll
+H:\Arman Hossain\All Module\Module 6\Final Project\Mahiuddin vai project\DeviceInformation\DeviceInformation\bin\EntityFramework.SqlServer.dll
+H:\Arman Hossain\All Module\Module 6\Final Project\Mahiuddin vai project\DeviceInformation\DeviceInformation\bin\Microsoft.AspNet.Identity.Core.dll
+H:\Arman Hossain\All Module\Module 6\Final Project\Mahiuddin vai project\DeviceInformation\DeviceInformation\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\Arman Hossain\All Module\Module 6\Final Project\Mahiuddin vai project\DeviceInformation\DeviceInformation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\Arman Hossain\All Module\Module 6\Final Project\Mahiuddin vai project\DeviceInformation\DeviceInformation\bin\Microsoft.Owin.dll
+H:\Arman Hossain\All Module\Module 6\Final Project\Mahiuddin vai project\DeviceInformation\DeviceInformation\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\Arman Hossain\All Module\Module 6\Final Project\Mahiuddin vai project\DeviceInformation\DeviceInformation\bin\Microsoft.Owin.Security.Cookies.dll
+H:\Arman Hossain\All Module\Module 6\Final Project\Mahiuddin vai project\DeviceInformation\DeviceInformation\bin\Microsoft.Owin.Security.dll
+H:\Arman Hossain\All Module\Module 6\Final Project\Mahiuddin vai project\DeviceInformation\DeviceInformation\bin\Microsoft.Web.Infrastructure.dll
+H:\Arman Hossain\All Module\Module 6\Final Project\Mahiuddin vai project\DeviceInformation\DeviceInformation\bin\Owin.dll
+H:\Arman Hossain\All Module\Module 6\Final Project\Mahiuddin vai project\DeviceInformation\DeviceInformation\bin\System.Buffers.dll
+H:\Arman Hossain\All Module\Module 6\Final Project\Mahiuddin vai project\DeviceInformation\DeviceInformation\bin\System.Memory.dll
+H:\Arman Hossain\All Module\Module 6\Final Project\Mahiuddin vai project\DeviceInformation\DeviceInformation\bin\System.Numerics.Vectors.dll
+H:\Arman Hossain\All Module\Module 6\Final Project\Mahiuddin vai project\DeviceInformation\DeviceInformation\bin\System.Runtime.CompilerServices.Unsafe.dll
+H:\Arman Hossain\All Module\Module 6\Final Project\Mahiuddin vai project\DeviceInformation\DeviceInformation\bin\System.Text.Encodings.Web.dll
+H:\Arman Hossain\All Module\Module 6\Final Project\Mahiuddin vai project\DeviceInformation\DeviceInformation\bin\System.Web.Helpers.dll
+H:\Arman Hossain\All Module\Module 6\Final Project\Mahiuddin vai project\DeviceInformation\DeviceInformation\bin\System.Web.Mvc.dll
+H:\Arman Hossain\All Module\Module 6\Final Project\Mahiuddin vai project\DeviceInformation\DeviceInformation\bin\System.Web.Razor.dll
+H:\Arman Hossain\All Module\Module 6\Final Project\Mahiuddin vai project\DeviceInformation\DeviceInformation\bin\System.Web.Webpages.Deployment.dll
+H:\Arman Hossain\All Module\Module 6\Final Project\Mahiuddin vai project\DeviceInformation\DeviceInformation\bin\System.Web.Webpages.dll
+H:\Arman Hossain\All Module\Module 6\Final Project\Mahiuddin vai project\DeviceInformation\DeviceInformation\bin\System.Web.Webpages.Razor.dll
+H:\Arman Hossain\All Module\Module 6\Final Project\Mahiuddin vai project\DeviceInformation\DeviceInformation\bin\X.PagedList.dll
+H:\Arman Hossain\All Module\Module 6\Final Project\Mahiuddin vai project\DeviceInformation\DeviceInformation\bin\X.PagedList.Mvc.dll
+H:\Arman Hossain\All Module\Module 6\Final Project\Mahiuddin vai project\DeviceInformation\DeviceInformation\bin\X.PagedList.Web.Common.dll
+H:\Arman Hossain\All Module\Module 6\Final Project\Mahiuddin vai project\DeviceInformation\DeviceInformation\bin\EntityFramework.xml
+H:\Arman Hossain\All Module\Module 6\Final Project\Mahiuddin vai project\DeviceInformation\DeviceInformation\bin\EntityFramework.SqlServer.xml
+H:\Arman Hossain\All Module\Module 6\Final Project\Mahiuddin vai project\DeviceInformation\DeviceInformation\bin\Microsoft.AspNet.Identity.Core.xml
+H:\Arman Hossain\All Module\Module 6\Final Project\Mahiuddin vai project\DeviceInformation\DeviceInformation\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\Arman Hossain\All Module\Module 6\Final Project\Mahiuddin vai project\DeviceInformation\DeviceInformation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\Arman Hossain\All Module\Module 6\Final Project\Mahiuddin vai project\DeviceInformation\DeviceInformation\bin\Microsoft.Owin.xml
+H:\Arman Hossain\All Module\Module 6\Final Project\Mahiuddin vai project\DeviceInformation\DeviceInformation\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\Arman Hossain\All Module\Module 6\Final Project\Mahiuddin vai project\DeviceInformation\DeviceInformation\bin\Microsoft.Owin.Security.xml
+H:\Arman Hossain\All Module\Module 6\Final Project\Mahiuddin vai project\DeviceInformation\DeviceInformation\bin\Microsoft.Owin.Security.Cookies.xml
+H:\Arman Hossain\All Module\Module 6\Final Project\Mahiuddin vai project\DeviceInformation\DeviceInformation\bin\System.Buffers.xml
+H:\Arman Hossain\All Module\Module 6\Final Project\Mahiuddin vai project\DeviceInformation\DeviceInformation\bin\System.Memory.xml
+H:\Arman Hossain\All Module\Module 6\Final Project\Mahiuddin vai project\DeviceInformation\DeviceInformation\bin\System.Numerics.Vectors.xml
+H:\Arman Hossain\All Module\Module 6\Final Project\Mahiuddin vai project\DeviceInformation\DeviceInformation\bin\System.Runtime.CompilerServices.Unsafe.xml
+H:\Arman Hossain\All Module\Module 6\Final Project\Mahiuddin vai project\DeviceInformation\DeviceInformation\bin\System.Text.Encodings.Web.xml
+H:\Arman Hossain\All Module\Module 6\Final Project\Mahiuddin vai project\DeviceInformation\DeviceInformation\bin\System.Web.Razor.xml
+H:\Arman Hossain\All Module\Module 6\Final Project\Mahiuddin vai project\DeviceInformation\DeviceInformation\bin\System.Web.Webpages.xml
+H:\Arman Hossain\All Module\Module 6\Final Project\Mahiuddin vai project\DeviceInformation\DeviceInformation\bin\System.Web.Webpages.Deployment.xml
+H:\Arman Hossain\All Module\Module 6\Final Project\Mahiuddin vai project\DeviceInformation\DeviceInformation\bin\System.Web.Webpages.Razor.xml
+H:\Arman Hossain\All Module\Module 6\Final Project\Mahiuddin vai project\DeviceInformation\DeviceInformation\bin\System.Web.Helpers.xml
+H:\Arman Hossain\All Module\Module 6\Final Project\Mahiuddin vai project\DeviceInformation\DeviceInformation\bin\System.Web.Mvc.xml
+H:\Arman Hossain\All Module\Module 6\Final Project\Mahiuddin vai project\DeviceInformation\DeviceInformation\obj\Debug\DeviceInformation.csproj.AssemblyReference.cache
+H:\Arman Hossain\All Module\Module 6\Final Project\Mahiuddin vai project\DeviceInformation\DeviceInformation\obj\Debug\DeviceInformation.csproj.CoreCompileInputs.cache
+H:\Arman Hossain\All Module\Module 6\Final Project\Mahiuddin vai project\DeviceInformation\DeviceInformation\obj\Debug\DeviceInformation.csproj.CopyComplete
+H:\Arman Hossain\All Module\Module 6\Final Project\Mahiuddin vai project\DeviceInformation\DeviceInformation\obj\Debug\DeviceInformation.dll
+H:\Arman Hossain\All Module\Module 6\Final Project\Mahiuddin vai project\DeviceInformation\DeviceInformation\obj\Debug\DeviceInformation.pdb

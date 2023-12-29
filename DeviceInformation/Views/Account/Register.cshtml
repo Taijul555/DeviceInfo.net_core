@@ -1,0 +1,42 @@
+﻿@model DeviceInformation.ViewModels.RegisterModel
+@{
+    ViewBag.Title = "Register";
+}
+
+<div class="row">
+    <div class="col-12">
+        @using (Html.BeginForm())
+        {
+            <h3>Register for membership</h3>
+            <div class="form-group row mb-1">
+                @Html.LabelFor(x => x.UserName, new { @class = "col-form-label col-form-label-sm col-2 text-end" })
+                <div class="col-4">
+                    @Html.TextBoxFor(x => x.UserName, new { @class = "form-control form-control-sm" })
+                    @Html.ValidationMessageFor(x => x.UserName, "", new { @class = "text-danger", style = "font-size:small" })
+                </div>
+            </div>
+            <div class="form-group row mb-1">
+                @Html.LabelFor(x => x.Password, new { @class = "col-form-label col-form-label-sm col-2 text-end" })
+                <div class="col-4">
+                    @Html.PasswordFor(x => x.Password, new { @class = "form-control form-control-sm" })
+                    @Html.ValidationMessageFor(x => x.Password, "", new { @class = "text-danger", style = "font-size:small" })
+                </div>
+            </div>
+            <div class="form-group row mb-1">
+                @Html.LabelFor(x => x.ConfirmPassword, new { @class = "col-form-label col-form-label-sm col-2 text-end" })
+                <div class="col-4">
+                    @Html.PasswordFor(x => x.ConfirmPassword, new { @class = "form-control form-control-sm" })
+                    @Html.ValidationMessageFor(x => x.ConfirmPassword, "", new { @class = "text-danger", style = "font-size:small" })
+                </div>
+            </div>
+            <div class="row form-group mb-1">
+                <div class="col-4 offset-2">
+                    <div class="d-flex justify-content-end">
+                        <button type="submit" class="btn btn-primary" name="act" value="insert">Register</button>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>
+
